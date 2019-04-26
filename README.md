@@ -1,2 +1,2 @@
-# Simon
-Simon fan's portfolio benchmark
+# Simon Pan
+Simon Pan's portfolio benchmark
